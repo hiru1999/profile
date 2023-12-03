@@ -1,0 +1,29 @@
+*{
+    margin: 0 0 0 0;
+}
+
+.top{
+    background-color: lightblue;
+    text-align: center;
+    position: relative;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 250px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 100px;
+    left: 200px;
+}
+
+.middle{
+    background-color: whitesmoke;
+}
